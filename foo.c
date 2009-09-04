@@ -3,7 +3,7 @@
  * */
 #include <stdio>
 
-int main(void)
+int main(int argc, char *argv[])
 {
     return printf("hello there\n");
 }
